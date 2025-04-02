@@ -57,8 +57,7 @@ const Navbar = () => {
                   className=" hover:border-b-[1px] ease-in-out border-black transition-all duration-300"
                   href="/payment-gateway"
                 >
-                  Payment Gateway
-                </a>
+                  Our packages                </a>
               </li>
               <li>
                 <a
@@ -127,8 +126,7 @@ const Navbar = () => {
                       className=" w-full hover:bg-gray-200 p-2"
                       href="/payment-gateway"
                     >
-                      Payment Gateway
-                    </a>
+                      Our packages                    </a>
                   </li>
                   <li className="flex w-full">
                     <a className=" w-full hover:bg-gray-200 p-2" href="/about">

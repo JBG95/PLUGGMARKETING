@@ -5,8 +5,8 @@ import Clients from "../Components/PaymentGateway/Clients";
 const PaymentGateway = () => {
   return (
     <>
-      <Hero />
-      <Clients />
+      {/* <Hero />
+      <Clients /> */}
       <PayFeature />
     </>
   );
