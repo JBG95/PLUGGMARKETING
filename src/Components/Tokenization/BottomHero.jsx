@@ -25,7 +25,7 @@ const BottomHero = () => {
           Issue borderless Asset classes
         </h1>
         <p className=" w-full text-center md:text-left pt-4 text-gray-600">
-          With Tokpay Infra, securities are tokenized by embedding the rights and obligations of the asset directory into the token itself, and it provides for workflow modeling to fully automate the asset&#39;s lifecycle across the financial ecosystem.
+          With PLUGG MARKETING Infra, securities are tokenized by embedding the rights and obligations of the asset directory into the token itself, and it provides for workflow modeling to fully automate the asset&#39;s lifecycle across the financial ecosystem.
         </p>
       </motion.div>
 

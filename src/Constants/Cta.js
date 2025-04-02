@@ -12,6 +12,6 @@ export const Cta=[
     {
         id:"3",
         title:"Start doing transfers",
-        description:"Now you can top up your account, send , receive or exchange money. You can also order your TOKPAY card."
+        description:"Now you can top up your account, send , receive or exchange money. You can also order your PLUGG MARKETING card."
     }
 ]

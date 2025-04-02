@@ -22,7 +22,7 @@ const BottomHero = () => {
         className="flex flex-col w-full md:w-1/2 items-center justify-center md:pt-0 pt-12"
       >
         <h1 className=" w-full text-center text-black md:text-left text-2xl font-bold md:text-4 xl">
-          Tokpay application development platform enables issuers to:
+          PLUGG MARKETING application development platform enables issuers to:
         </h1>
         <p className=" w-full text-center md:text-left pt-4 text-gray-600">
           Access committed and simultaneous settlements that break each complex

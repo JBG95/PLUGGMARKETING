@@ -6,7 +6,7 @@ export const Feedback = [
     name: "David Shinman Benimaru",
   },
   {
-    title: "TOKPAY is awesome",
+    title: "PLUGG MARKETING is awesome",
     description:
       "The charges are quite good... this makes it easy to send money",
     name: "Tamani Phiri",
@@ -14,7 +14,7 @@ export const Feedback = [
   {
     title: "Top customer service",
     description:
-      "So i was navigating through the Tokpay app... it will be really a game changer with increased adoption once it's launched",
+      "So i was navigating through the PLUGG MARKETING app... it will be really a game changer with increased adoption once it's launched",
     name: "Ernest Muyunda",
   },
 ];

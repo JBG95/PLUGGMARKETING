@@ -18,7 +18,7 @@ const PayFeat = () => {
         className="flex flex-col w-full md:w-1/2 items-center justify-center md:pt-0 pt-12"
       >
         <h1 className=" w-full text-center text-gray-900 md:text-left text-2xl font-bold md:text-4xl">
-          Why Tokpay?
+          Why PLUGG MARKETING?
         </h1>
         <p className=" w-full text-center md:text-left py-4 text-gray-800">
           Collect easy mobile money payments in Zambia, Tanzania, Ghana, Kenya,

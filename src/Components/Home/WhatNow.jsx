@@ -12,9 +12,9 @@ const WhatNow = () => {
   return (
     <div className="items-center z-0 px-4 md:px-8 py-8 gap-4 h-auto flex w-full flex-col justify-center">
       {/* Title */}
-      <div className=" py-6 flex w-full items-center justify-center">
+      <div className="py-6 flex w-full items-center justify-center">
         <h1 className="text-xl md:text-3xl font-bold">
-          You got paid. Now what?
+          Your Brand, Now What?
         </h1>
       </div>
       {Items.map((item, index) => (

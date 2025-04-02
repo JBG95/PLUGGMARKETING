@@ -20,23 +20,23 @@ const Navbar = () => {
           className=" group hover:scale-105 items-center transition flex"
           to="/"
         >
-          <img
+          {/* <img
             src={logo}
             alt="logo"
             loading="lazy"
             className="object-cover md:h-24 h-16 w-16 md:group-hover:rotate-[20deg] duration-500 rounded-full"
-          />
+          /> */}
           <p
             id="logo"
             className="text-[#3e4edf] md:text-3xl text-xl font-extrabold"
           >
-            Tok
+            Plug
           </p>
           <p
             id="logo"
             className="text-gray-800 md:text-3xl text-xl font-extrabold"
           >
-            pay
+            Marketing
           </p>
         </Link>
 
@@ -71,7 +71,7 @@ const Navbar = () => {
               <li>
                 <a
                   className=" hover:border-b-[1px] ease-in-out border-black transition-all duration-300"
-                  href="mailto:admin@tokpay.xyz"
+                  href="mailto:admin@PLUGG MARKETING.xyz"
                 >
                   Help
                 </a>

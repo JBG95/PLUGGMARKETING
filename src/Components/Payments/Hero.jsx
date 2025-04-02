@@ -34,7 +34,7 @@ const Hero = () => {
         </p>
         <p className=" w-full text-center md:text-left py-4 text-gray-600">
           Current cross-border payments can cost upwards of 7% of the amount
-          transferred and take nearly a week to process, Tokpay empowers
+          transferred and take nearly a week to process, PLUGG MARKETING empowers
           customers to send these payments instantly at a fraction of the price.{" "}
           <br /> We launched our consumer-facing app for instant transfers
           between friends and family worldwide, while also targeting financial

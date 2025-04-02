@@ -1,22 +1,28 @@
-export const Benefits =[
+export const Benefits = [
     {
-        header:"Send money anywhere in the world",
-        description:"Send money 8x faster than with traditional banks to any international bank account or instantly",
-        url:"https://assets3.lottiefiles.com/packages/lf20_de909vf3.json",
+      header: "Elevate Your Online Presence",
+      description:
+        "Reach and engage your target audience with tailored social media strategies and creative content solutions that make your brand stand out.",
+      url: "https://lottie.host/e9512d78-6518-4691-8d7c-abc3734fa16e/RMOTbAJZgi.json",
     },
     {
-        header:"Receive money from anyone, anywhere",
-        description:"Request money from friends, get paid for all your services, or simply receive  your salary with just a tap ,in any currency, no matter your location.",
-        url:"https://assets3.lottiefiles.com/packages/lf20_06a6pf9i.json",
+      header: "Drive Measurable Growth",
+      description:
+        "Boost your brand's visibility and performance through data-driven digital advertising and strategic marketing initiatives.",
+      url: "https://lottie.host/aaee9fbe-f903-4bb1-aed1-fbef620ed792/cwLO0fe16N.json",
     },
     {
-        header:"Welcome to the future of T-Bills",
-        description:"Tokpay reinvents the T-Bill investment game by embracing cutting edge blockchain technology. Say goodbye to the traditional barriers of the financial market and hello to a whole new level of security, transparency and efficiency. By leveraging the disruptive power of DLT, Tokpay revolutionizes the way T-Bill investments are made, managed, and withdrawn-shaking up the fiscal landscape like never before. Join the Tokpay movement today and reap the rewards  of a smarter financial market ecosystem built for the investors of tomorrow.",
-        url:"https://assets1.lottiefiles.com/packages/lf20_5GjduNeKL0.json",
+      header: "Innovative Content Creation",
+      description:
+        "Deliver captivating visuals and compelling storytelling with high-quality photography, viral reels, and creative video content.",
+      url: "https://lottie.host/3387a3a5-a814-4ab5-8026-be1319beab1d/lWNsEjTBvW.json",
+      
     },
     {
-        header:"Manage your money and expenses smarter",
-        description:"Tokpay makes capital markets more accessible and equitable. We bridge real-world assets to a new, open financial system, adding to their value and changing how people trade, invest and manage wealth.",
-        url:"https://assets3.lottiefiles.com/packages/lf20_vo0zbstd.json",
-    }
-]
+      header: "Strategic Brand Development",
+      description:
+        "Build a strong, recognizable brand with our comprehensive services, including logo design, brand messaging, and identity development.",
+      url: "https://lottie.host/4b1c01e1-d9cc-452e-9ac4-e002082b0767/JNspyGruoZ.json",
+    },
+  ];
+  
