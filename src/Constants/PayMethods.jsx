@@ -1,0 +1,22 @@
+export const PayMethods=[
+    {
+        name:"Momo",
+        image:"https://www.paygate.co.za/wp-content/uploads/Asset-1-3.svg"
+    },
+    {
+        name:"Airtel",
+        image:"https://cdn.worldvectorlogo.com/logos/bharti-airtel-limited.svg"
+    },
+    {
+        name:"Visa",
+        image:"https://cdn.worldvectorlogo.com/logos/visa-4.svg"
+    },
+    {
+        name:"MasterCard",
+        image:"https://cdn.worldvectorlogo.com/logos/mastercard-2.svg"
+    },
+    {
+        name:"Zamtel",
+        image:"//upload.wikimedia.org/wikipedia/en/a/a1/ZAMTEL_LOGO.gif"
+    }
+]
