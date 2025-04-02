@@ -115,7 +115,7 @@ const Footer = () => {
 
         {/* Access Account button */}
         <div className="flex">
-          <a href="https://dy2n4ci8i4d.typeform.com/to/TJgNtJit" className=" text-white border hover:bg-black bg-[#202020] px-4 py-2 rounded-2xl">
+          <a href="PLUGG MARKETING" className=" text-white border hover:bg-black bg-[#202020] px-4 py-2 rounded-2xl">
             Access your account
           </a>
         </div>

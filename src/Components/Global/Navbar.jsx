@@ -82,7 +82,7 @@ const Navbar = () => {
           {/* Access account button */}
           <div className="transition-all hover:scale-105 duration-300">
             <a
-              href="https://dy2n4ci8i4d.typeform.com/to/TJgNtJit"
+              href="PLUGG MARKETING"
               className="bg-[#010101] text-white py-2 px-3 rounded-2xl"
             >
               Access your account
@@ -142,7 +142,7 @@ const Navbar = () => {
                   </li>
                   <li className="flex w-full pl-2">
                     <a
-                      href="https://dy2n4ci8i4d.typeform.com/to/TJgNtJit"
+                      href="PLUGG MARKETING"
                       className="bg-[#010101] text-white p-2 rounded-md"
                     >
                       Access your account
